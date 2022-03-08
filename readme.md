@@ -1,6 +1,6 @@
 # Introduction
 
-Tools that I should try or don't use often enough to remember.
+Tools that I use, should try or don't use often enough to remember.
 
 ## Shell
 
