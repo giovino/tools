@@ -12,3 +12,5 @@ Tools that I should try or don't use often enough to remember.
 * [yq](https://github.com/mikefarah/yq): a command-line tool to view YAML, JSON and XML files written in Golang
 
 ## Python
+
+* [dataset](https://dataset.readthedocs.io/en/latest/): a Python ORM module that makes it easy to interact with sqlite
