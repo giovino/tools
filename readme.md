@@ -17,3 +17,9 @@ Tools that I use, should try or don't use often enough to remember.
 * [csvkit](https://csvkit.readthedocs.io/en/latest/): a suite of command-line tools for converting to and working with CSV, the king of tabular file formats
 * [dataset](https://dataset.readthedocs.io/en/latest/): a Python ORM module that makes it easy to interact with sqlite
 * [datasette](https://datasette.io/): is a tool for exploring and publishing data
+* [pandas](https://pandas.pydata.org/): is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool
+
+## Databases
+
+* [DuckDB](https://duckdb.org/): is an in-process SQL OLAP database management system
+* [sqlite](https://www.sqlite.org/index.html): is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine
