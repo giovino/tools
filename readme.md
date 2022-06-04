@@ -27,3 +27,7 @@ Tools that I use, should try or don't use often enough to remember.
 
 * [duckdb](https://duckdb.org/): is an in-process SQL OLAP database management system
 * [sqlite](https://www.sqlite.org/index.html): is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine
+
+## Articles
+
+* [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
