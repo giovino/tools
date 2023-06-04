@@ -10,13 +10,14 @@ Tools that I use, should try or don't use often enough to remember.
 * [jless](https://pauljuliusmartinez.github.io/): a command-line JSON viewer written in Rust
 * [jq](https://stedolan.github.io/jq/): a command-line tool to view JSON files written in C
 * [miller](https://miller.readthedocs.io/en/latest/): a command-line tool for querying, shaping, and reformatting data files in various formats including CSV, TSV, JSON, and JSON Lines
-* [sqlitebiter](https://github.com/thombashi/sqlitebiter):  is a CLI tool to convert various file formats to a SQLite database file
+* [sqlitebiter](https://github.com/thombashi/sqlitebiter): is a CLI tool to convert various file formats to a SQLite database file
 * [yj](https://github.com/sclevine/yj): a command-line tool to convert between YAML, TOML, JSON, and HCL written in Golang
 * [yq](https://github.com/mikefarah/yq): a command-line tool to view YAML, JSON and XML files written in Golang
 
 ## Python
 
-* [boltons](https://boltons.readthedocs.io/en/latest/index.html):  is a set of pure-Python utilities missing from the standard library
+* [arrow](https://arrow.readthedocs.io/en/latest/):  a Python library that makes it easy to work with dates, times and timestamps
+* [boltons](https://boltons.readthedocs.io/en/latest/index.html): is a set of pure-Python utilities missing from the standard library
 * [cachetools](https://pypi.org/project/cachetools/): is a Python module which provides various memoizing collections and decorators
 * [csvkit](https://csvkit.readthedocs.io/en/latest/): a suite of command-line tools for converting to and working with CSV, the king of tabular file formats
 * [dataset](https://dataset.readthedocs.io/en/latest/): a Python ORM module that makes it easy to interact with sqlite
@@ -29,7 +30,8 @@ Tools that I use, should try or don't use often enough to remember.
 * [more-itertools](https://more-itertools.readthedocs.io/en/stable/): is a set of utilities for working with Python iterables
 * [pandas](https://pandas.pydata.org/): is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool
 * [sh](https://amoffat.github.io/sh/):  is a subprocess replacement that allows you to call any shell program as if it were a function
-* [simplesqlite](https://simplesqlite.readthedocs.io/):  is a Python library to simplify SQLite database operations
+* [simplesqlite](https://simplesqlite.readthedocs.io/): is a Python library to simplify SQLite database operations
+* [tabulate](https://github.com/astanin/python-tabulate): is a python library and CLI tool to print data in a tabular format
 * [thefuzz](https://github.com/seatgeek/thefuzz): is a tool for fuzzy string matching
 * [validators](https://python-validators.github.io/validators/): is a simple validation library
 
